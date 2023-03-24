@@ -3,13 +3,13 @@
 ## Requirements
 
 - Node.js / NPM
-- To use this bridge you'll need access to nodes in different chains. [Check out Chainstack website to learn more](https://chainstack.com).
+- To use this bridge you'll need access to nodes in different chains.
 
 ## Build & Compile
 
 ### Smart contracts
 
-Create a Metamask wallet and get some tokens for your target networks. This code was tested with Ropsten and Harmony testnet. You can get [Ropsten ETH here]() and [Harmony testnet ONE here]().
+Create a Metamask wallet and get some tokens for your target networks.
 
 Run `npm i` to install all required dependencies.
 
