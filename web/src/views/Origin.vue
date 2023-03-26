@@ -17,7 +17,7 @@
     />
 
     <form class="w-96 mt-8 mx-auto">
-      <label for="price" class="block mb-2 font-medium text-gray-700"
+      <label for="price" class="block mb-2 font-medium text-gray-700" style="color: white;"
         >How much WARC do you want to bridge?</label
       >
       <div class="mt-4 w-2/3 mx-auto relative rounded-md shadow-sm">
